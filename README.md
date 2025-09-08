@@ -1,4 +1,4 @@
-# Denkigera
+# DENKIGERA
 
 A self-hosted web UI and proxy server for the **IKEA DIRIGERA** smart home hub.
 
