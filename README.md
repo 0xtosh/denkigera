@@ -26,7 +26,7 @@ These instructions are for a Debian-based Linux system (e.g., Raspberry Pi OS, U
 First, clone this repository to your machine and navigate into the directory.
 
 ```bash
-git clone [https://github.com/0xtosh/denkigera.git](https://github.com/0xtosh/denkigera.git)
+git clone https://github.com/0xtosh/denkigera.git
 cd denkigera
 bash install.sh
 ```
