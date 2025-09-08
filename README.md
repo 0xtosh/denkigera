@@ -11,9 +11,10 @@ Denkigera provides a simple, clean web interface to control your IKEA smart devi
 ## Features
 
 * **Clean Web UI**: An intuitive interface to view and control all your DIRIGERA-connected devices from any browser.
-* **Simple Proxy Server**: A clean API proxy to interact with your devices programmatically.
-* **Self-Hosted**: Runs on your own hardware (like a Raspberry Pi) for maximum privacy and control.
-* **Easy Setup**: A simple installation script to get you up and running quickly.
+* **Simple Proxy Server**: A clean API proxy to interact with your devices programmatically for your own projects with /api/devices
+* **Bonjour MDNS based auto-detection of DIRIGERA hub**: Stand-alone and reboot-proof autodetection of your IKEA hub in case your DIRIGERA changes IP address.
+* **Self-Hosted**: Runs on your own hardware (like a Raspberry Pi).
+* **Easy Setup**: A simple installation script.
 
 ---
 
