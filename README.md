@@ -1,6 +1,6 @@
 # DENKIGERA
 
-A self-hosted web UI and proxy server for the **IKEA DIRIGERA** smart home hub.
+A self-hosted web UI and proxy server for the **IKEA DIRIGERA** smart home hub. DENKIGERA allows for control of your IKEA smart devices over e.g. VPN, without the need for a Wi-Fi connection required by the official IKEA mobile app.
 
 Denkigera provides a simple, clean web interface to control your IKEA smart devices. It also acts as a lightweight proxy server, offering a straightforward API endpoint for your devices, which simplifies integrations with other systems in your smart home setup.
 
